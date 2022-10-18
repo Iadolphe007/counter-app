@@ -1,0 +1,32 @@
+body{
+    background-color: rgba(0, 0, 0, 0.4);
+    text-align: center;
+    margin-top: 10rem;
+    margin-left: 1rem;
+    justify-content: center;
+
+}
+div{
+    /* background-color:rgb(12, 11, 11, 0.5); */
+    /* margin-right: 30rem; */
+    /* margin-left: 30rem; */
+    /* padding: 20px; */
+    /* justify-content: center; */
+    /* text-align: center; */
+
+}
+
+button{
+    background-color: white;
+    border: 1px solid;
+    color: black;
+    padding: 10px 20px;
+    margin: 20px 8px;
+    cursor: pointer;
+
+}
+button:hover{
+    color: red;
+    background-color: black;
+    transition-duration: 0.4s;
+}
